@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1509136638 source:/media/bakr/Local Disk/worke space/codeBlocks/Synchronization and Mutual Exclusion/caltrain.c
+	<pthread.h>
+	"caltrain.h"
+
+1509132807 /media/bakr/Local Disk/worke space/codeBlocks/Synchronization and Mutual Exclusion/caltrain.h
+	<pthread.h>
+
+1509135041 source:/media/bakr/Local Disk/worke space/codeBlocks/Synchronization and Mutual Exclusion/main.c
+	<stdio.h>
+	<stdlib.h>
+	<signal.h>
+	<time.h>
+	<unistd.h>
+	<pthread.h>
+	"caltrain.h"
+
